@@ -1,6 +1,7 @@
-Tässä käyttöliittymän pohjakoodi Campus Appin käyttöliittymälle
+// Tässä käyttöliittymän pohjakoodi Campus Appin käyttöliittymälle
 
 
 Console.WriteLine("Campus App - tulevat tapahtumat");
+Console.WriteLine("Pikkujoulut joulua ennen");
 
 // v. 1.0
