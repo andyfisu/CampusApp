@@ -3,5 +3,6 @@
 
 Console.WriteLine("Campus App - tulevat tapahtumat");
 Console.WriteLine("Pikkujoulut joulua ennen");
+Console.WriteLine("Ja tonttulakit päähän!");
 
 // v. 1.0
