@@ -1,1 +1,6 @@
-Campus App - tulevat tapahtumat
+Tässä käyttöliittymän pohjakoodi Campus Appin käyttöliittymälle
+
+
+Console.WriteLine("Campus App - tulevat tapahtumat");
+
+// v. 1.0
