@@ -4,9 +4,9 @@
 
 This GitHub repository contains a fictional CampusApp application created as part of the Software Development Tools course at Centria University of Applied Sciences in 2026.
 
-The Jira assignment was completed as a pair project with my fellow student Maria, in accordance with the assignment requirements.
+This task was done as pair work with my classmate Maria.
 
-The implementation of this fictional code took an impressive five seconds, so it should by no means be considered a demonstration of our actual coding skills. 😄
+The programming of this fictional code took an impressive five seconds, so it should by no means be considered a demonstration of our actual coding skills. 😄
 
 The primary objective of this assignment was to learn how to use Jira for software project management. The GitHub integration was implemented to demonstrate our ability to successfully connect a GitHub repository with Jira.
 
