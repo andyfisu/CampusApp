@@ -8,7 +8,7 @@ This task was done as pair work with my classmate Maria.
 
 The programming of this fictional code took an impressive five seconds, so it should by no means be considered a demonstration of our actual coding skills. 😄
 
-The primary objective of this assignment was to learn how to use Jira for software project management. The GitHub integration was implemented to demonstrate our ability to successfully connect a GitHub repository with Jira.
+The primary objective of this project was to learn how to use Jira for software project management. The GitHub integration was implemented to demonstrate our ability to successfully connect a GitHub repository with Jira.
 
 ## Purpose
 
