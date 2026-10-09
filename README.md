@@ -12,8 +12,5 @@ The primary objective of this assignment was to learn how to use Jira for softwa
 
 ## Purpose
 
-The purpose of this project was to gain hands-on experience with software development tools, particularly Jira, while also practicing Git and GitHub integration in a simulated development environment.
+The purpose of this project was to gain experience with software development tools, particularly Jira, while also practicing Git and GitHub integration in a simulated development environment.
 
-## Disclaimer
-
-This is purely an educational project. The code is only intended to resemble the structure of a real software application and is not functional or intended for production use.
